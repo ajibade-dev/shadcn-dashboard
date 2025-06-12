@@ -3,14 +3,6 @@ import { Breadcrumb, BreadcrumbItem, BreadcrumbLink, BreadcrumbList, BreadcrumbP
 import { HoverCard, HoverCardContent, HoverCardTrigger } from '@/components/ui/hover-card'
 import { Progress } from '@/components/ui/progress'
 import { BadgeCheck, Candy, Citrus, Shield } from 'lucide-react'
-import {
-  Sheet,
-  SheetContent,
-  SheetDescription,
-  SheetHeader,
-  SheetTitle,
-  SheetTrigger,
-} from "@/components/ui/sheet"
 import React from 'react'
 import { Button } from '@/components/ui/button'
 import EditUser from '@/components/EditUser'

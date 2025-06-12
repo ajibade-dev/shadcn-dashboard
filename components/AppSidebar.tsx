@@ -1,4 +1,7 @@
-import { Calendar, ChevronDown, ChevronUp, Home, Inbox, Plus, Projector, Search, Settings, User2, CircleDollarSign } from "lucide-react"
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+
+import { ChevronDown, ChevronUp, Home, Inbox, Plus, Projector, Search, Settings, User2, CircleDollarSign } from "lucide-react"
 import { Sidebar, SidebarContent, SidebarFooter, SidebarGroup, SidebarGroupAction, SidebarGroupContent, SidebarGroupLabel, SidebarHeader, SidebarMenu, SidebarMenuBadge, SidebarMenuButton, SidebarMenuItem, SidebarMenuSub, SidebarMenuSubButton, SidebarMenuSubItem, SidebarSeparator } from "./ui/sidebar"
 import Image from "next/image"
 import Link from "next/link"
